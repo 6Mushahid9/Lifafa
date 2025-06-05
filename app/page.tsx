@@ -14,16 +14,16 @@ export default function HomePage() {
       <FadeInSection>
         <Hero />
       </FadeInSection>
-      <FadeInSection delay={200}>
+      <FadeInSection delay={100}>
         <PopularTemplates />
       </FadeInSection>
-      <FadeInSection delay={400}>
+      <FadeInSection delay={100}>
         <Facilities />
       </FadeInSection>
-      <FadeInSection delay={600}>
+      <FadeInSection delay={100}>
         <Testimonials />
       </FadeInSection>
-      <FadeInSection delay={800}>
+      <FadeInSection delay={100}>
         <Footer />
       </FadeInSection>
     </PageWrapper>

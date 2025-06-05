@@ -3,12 +3,12 @@ import { Button } from "@/components/ui/button"
 import { TransitionLink } from "@/components/transitions/transition-link"
 
 const templates = [
-  { id: 1, name: "Classic Formal", image: "/placeholder.svg?height=300&width=200" },
-  { id: 2, name: "Modern Minimal", image: "/placeholder.svg?height=300&width=200" },
-  { id: 3, name: "Elegant Border", image: "/placeholder.svg?height=300&width=200" },
-  { id: 4, name: "Corporate Style", image: "/placeholder.svg?height=300&width=200" },
-  { id: 5, name: "Vintage Design", image: "/placeholder.svg?height=300&width=200" },
-  { id: 6, name: "Contemporary", image: "/placeholder.svg?height=300&width=200" },
+  { id: 1, name: "Classic Formal", image: "/one.jpeg?height=300&width=200" },
+  { id: 2, name: "Modern Minimal", image: "/two.jpeg?height=300&width=200" },
+  { id: 3, name: "Elegant Border", image: "/three.jpeg?height=300&width=200" },
+  { id: 4, name: "Corporate Style", image: "/four.jpeg?height=300&width=200" },
+  { id: 5, name: "Vintage Design", image: "/five.jpeg?height=300&width=200" },
+  { id: 6, name: "Contemporary", image: "/six.jpeg?height=300&width=200" },
 ]
 
 export function PopularTemplates() {

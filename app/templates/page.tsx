@@ -14,14 +14,14 @@ import { PageWrapper } from "@/components/transitions/page-wrapper"
 import { FadeInSection } from "@/components/transitions/fade-in-section"
 
 const templates = [
-  { id: 1, name: "Classic Formal", category: "Business", image: "/placeholder.svg?height=300&width=200" },
-  { id: 2, name: "Modern Minimal", category: "Contemporary", image: "/placeholder.svg?height=300&width=200" },
-  { id: 3, name: "Elegant Border", category: "Formal", image: "/placeholder.svg?height=300&width=200" },
-  { id: 4, name: "Corporate Style", category: "Business", image: "/placeholder.svg?height=300&width=200" },
-  { id: 5, name: "Vintage Design", category: "Classic", image: "/placeholder.svg?height=300&width=200" },
-  { id: 6, name: "Contemporary", category: "Modern", image: "/placeholder.svg?height=300&width=200" },
-  { id: 7, name: "Royal Invitation", category: "Formal", image: "/placeholder.svg?height=300&width=200" },
-  { id: 8, name: "Simple Clean", category: "Minimal", image: "/placeholder.svg?height=300&width=200" },
+  { id: 1, name: "Classic Formal", category: "Business", image: "/one.jpeg?height=300&width=200" },
+  { id: 2, name: "Modern Minimal", category: "Contemporary", image: "/two.jpeg?height=300&width=200" },
+  { id: 3, name: "Elegant Border", category: "Formal", image: "/three.jpeg?height=300&width=200" },
+  { id: 4, name: "Corporate Style", category: "Business", image: "/four.jpeg?height=300&width=200" },
+  { id: 5, name: "Vintage Design", category: "Classic", image: "/five.jpeg?height=300&width=200" },
+  { id: 6, name: "Contemporary", category: "Modern", image: "/six.jpeg?height=300&width=200" },
+  { id: 7, name: "Royal Invitation", category: "Formal", image: "/seven.jpeg?height=300&width=200" },
+  { id: 8, name: "Simple Clean", category: "Minimal", image: "/eight.jpeg?height=300&width=200" },
 ]
 
 export default function TemplatesPage() {
