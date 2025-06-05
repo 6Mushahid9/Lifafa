@@ -16,7 +16,7 @@ export function Navigation() {
     { name: "Home", href: "/" },
     { name: "Templates", href: "/templates" },
     { name: "About", href: "/about" },
-    { name: "Testimonials", href: "/testimonials" },
+    // { name: "Testimonials", href: "/testimonials" },
     { name: "Contact", href: "/contact" },
   ]
 

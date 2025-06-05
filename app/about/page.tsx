@@ -44,7 +44,7 @@ export default function AboutPage() {
             </div>
             <div className="relative h-[500px] bg-gray-100">
               <Image
-                src="/placeholder.svg?height=500&width=600"
+                src="/seven.jpeg?height=500&width=600"
                 alt="Lifafa design process"
                 fill
                 className="object-cover"
@@ -100,24 +100,24 @@ export default function AboutPage() {
           <div className="grid md:grid-cols-4 gap-8">
             {[
               {
-                name: "Aryan Sharma",
+                name: "Mushahid Khisal Ansari",
                 role: "Founder & Creative Director",
-                image: "/placeholder.svg?height=300&width=300",
+                image: "/mush.png?height=300&width=300",
               },
               {
-                name: "Priya Patel",
+                name: "Mushahid Boss",
                 role: "Head of Design",
-                image: "/placeholder.svg?height=300&width=300",
+                image: "/rabbit.png?height=300&width=300",
               },
               {
-                name: "Vikram Mehta",
+                name: "Shamikh",
                 role: "Production Manager",
-                image: "/placeholder.svg?height=300&width=300",
+                image: "/shamikh.png?height=300&width=300",
               },
               {
-                name: "Neha Kapoor",
+                name: "Da Vinci",
                 role: "Client Relations",
-                image: "/placeholder.svg?height=300&width=300",
+                image: "/vinci.png?height=300&width=300",
               },
             ].map((member, index) => (
               <div key={index} className="text-center">
@@ -220,7 +220,7 @@ export default function AboutPage() {
             <Button
               variant="outline"
               size="lg"
-              className="border-white text-white hover:bg-white hover:text-black px-8 py-6 text-lg font-medium"
+              className="border-white text-black hover:bg-gray-200 px-8 py-6 text-lg font-medium"
             >
               Contact Us
             </Button>

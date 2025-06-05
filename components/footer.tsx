@@ -50,8 +50,8 @@ export function Footer() {
             <h4 className="font-semibold mb-4">Contact</h4>
             <div className="text-gray-400 space-y-2">
               <p>hello@lifafa.com</p>
-              <p>+91 98765 43210</p>
-              <p>Mumbai, India</p>
+              <p>+91 91400 98905</p>
+              <p>Lucknow, India</p>
             </div>
           </div>
         </div>
